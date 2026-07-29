@@ -1,13 +1,10 @@
-<h1 align="center">
-  Hi 👋, I'm Daniel
-</h1>
+# Hi 👋, I'm Daniel
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%F0%9F%9A%80;Hardware+%26+Gaming+Enthusiast+%F0%9F%8E%AE;AI-Augmented+Software+Engineering+%F0%9F%A4%96" alt="Typing SVG" />
-  </a>
-</p>
+* Full-Stack Developer 🚀
+* Hardware & Gaming Enthusiast 🎮
+* AI-Augmented Software Engineering 🤖
 
+![Ado Thumbs Up](https://media.tenor.com/cE0f1g3u0eIAAAAC/ado-thumbs-up.gif)
 
 ## 💻 Equipment & Skill Tree
 

@@ -1,10 +1,13 @@
-# Hi 👋, I'm Daniel
+# 👋 Hi , I'm Daniel
+
+<img align="right" width="182" height="172" alt="ado-thumbs-up" src="https://github.com/user-attachments/assets/e6109911-e93d-4d52-9709-bee70125eaed" />
 
 * Full-Stack Developer 🚀
 * Hardware & Gaming Enthusiast 🎮
 * AI-Augmented Software Engineering 🤖
 
-![Ado Thumbs Up](https://media.tenor.com/cE0f1g3u0eIAAAAC/ado-thumbs-up.gif)
+<br clear="right" />
+
 
 ## 💻 Equipment & Skill Tree
 

@@ -1,25 +1,38 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Software Engineer 💻 | Full-Stack Developer 👨‍💻</h3>
+<h1 align="center">
+  Hi 👋, I'm Daniel Giovany
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%F0%9F%9A%80;Hardware+%26+Gaming+Enthusiast+%F0%9F%8E%AE;AI-Augmented+Software+Engineering+%F0%9F%A4%96" alt="Typing SVG" />
+  </a>
+</p>
 
 
+## 🗡️ Equipment & Skill Tree
 
-<h3>🛠️ My Tech Stack</h3>
-<h4>* Frontend</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,css,html,typescript,javascript" />
-</a>
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h4>* Backend & Database</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</a>
+### 🛡️ Backend & Database
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h4>* Other Languages</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
-</a>
+### 🧰 Inventory & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h4>* Tools</h4>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,windows,linux" />
-</a>
+### 🤖 AI Tools
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-F55E27?style=for-the-badge&logo=claudecode&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-6527F5?style=for-the-badge&logo=googlegemini&logoColor=white)
+

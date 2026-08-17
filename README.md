@@ -1,7 +1,5 @@
 # 👋 Hi , I'm Daniel
 
-<img align="right" width="182" height="172" alt="ado-thumbs-up" src="https://github.com/user-attachments/assets/e6109911-e93d-4d52-9709-bee70125eaed" />
-
 * Full-Stack Developer 🚀
 * Hardware & Gaming Enthusiast 🎮
 * AI-Augmented Software Engineering 🤖
@@ -9,7 +7,7 @@
 <br clear="right" />
 
 
-## 💻 Equipment & Skill Tree
+## 💻 Skills
 
 ### * Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
